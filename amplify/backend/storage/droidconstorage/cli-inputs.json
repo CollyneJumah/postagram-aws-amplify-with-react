@@ -1,0 +1,16 @@
+{
+  "resourceName": "droidconstorage",
+  "policyUUID": "9ede783d",
+  "bucketName": "droidconbucket",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
